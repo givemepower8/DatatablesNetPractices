@@ -1,2 +1,3 @@
 # DatatablesNetPractices
+
 Datatables.net Practices
